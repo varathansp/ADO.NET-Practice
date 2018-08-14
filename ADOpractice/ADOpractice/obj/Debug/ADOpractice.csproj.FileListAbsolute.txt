@@ -1,0 +1,5 @@
+c:\users\varathan sp\documents\visual studio 2015\Projects\ADOpractice\ADOpractice\bin\Debug\ADOpractice.exe.config
+c:\users\varathan sp\documents\visual studio 2015\Projects\ADOpractice\ADOpractice\bin\Debug\ADOpractice.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\ADOpractice\ADOpractice\bin\Debug\ADOpractice.pdb
+c:\users\varathan sp\documents\visual studio 2015\Projects\ADOpractice\ADOpractice\obj\Debug\ADOpractice.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\ADOpractice\ADOpractice\obj\Debug\ADOpractice.pdb

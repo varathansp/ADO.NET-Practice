@@ -1,0 +1,20 @@
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\csc.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\System.Collections.Immutable.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\vbc.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\VBCSCompiler.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\roslyn\VBCSCompiler.exe.config
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\Xml Data into Sql Server.dll.config
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\Xml Data into Sql Server.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\Xml Data into Sql Server.pdb
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\obj\Debug\Xml Data into Sql Server.csprojResolveAssemblyReference.cache
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\obj\Debug\Xml Data into Sql Server.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Xml Data into Sql Server\Xml Data into Sql Server\obj\Debug\Xml Data into Sql Server.pdb
